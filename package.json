@@ -1,0 +1,23 @@
+{
+  "name": "cron-expression-parser",
+  "version": "1.0.0",
+  "description": "A node.js application which parses a cron string",
+  "main": "index.js",
+  "scripts": {
+    "cron-parser": "node index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LBurke92/cron-expression-parser.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LBurke92/cron-expression-parser/issues"
+  },
+  "homepage": "https://github.com/LBurke92/cron-expression-parser#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
